@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "guess-file-type": "^1.0.1",
+    "ssh2-sftp-client": "^9.1.0"
+  }
+}
